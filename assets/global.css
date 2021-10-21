@@ -1,0 +1,36 @@
+
+html {
+    font-size: 16px;
+    font-family:Poppins;
+  }
+
+  h2{
+    font-size:1.25rem;
+    color: #24355C;
+  }
+
+
+  *{
+    margin:0;
+    padding:0;
+  }
+
+  .container{
+    max-width:960px;
+    margin:0 auto;
+  }
+
+  body{
+    overflow-x:hidden;
+  }
+
+  
+
+  @media screen and (min-width: 769px) {
+    html {
+      font-size: 1.35rem;
+    }
+  }
+
+
+  
